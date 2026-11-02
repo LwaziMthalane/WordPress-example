@@ -52,35 +52,13 @@ window.GY={
   },
   /* TEAM: leave photo '' for an initials placeholder */
   team:[
-    {name:'Wandile',role:'Head of IT',photo:GY_BASE+'img/wandile.jpeg'},
-    {name:'Sibusisiwe',role:'Finance Manager',photo:GY_BASE+'img/sbu.jpeg'},
-    {name:'Nothando',role:'PR and Communications intern',photo:GY_BASE+'img/nothando.jpeg'},
-    {name:'Nkanyiso',role:'Founder and manager',photo:GY_BASE+'img/nkanyiso.jpeg'},
-    {name:'Lwazilwenkosi',role:'Software Engineering intern',photo:GY_BASE+'img/lwazi.jpeg'},
-    {name:'Kgomotso',role:'Installations Intern',photo:GY_BASE+'img/kg.jpeg'},
-    {name:'Nokukhanya & Nomfundo',role:'ICT Intern, PR and Communications Intern',photo:GY_BASE+'img/kay-and-nomfundo.jpeg'},
-    {name:'Gqamisile',role:'ICT Intern',photo:GY_BASE+'img/haland.jpeg'},
-    {name:'Andiswa & Nonyaka',role:'ICT Intern, PR and Communications Intern',photo:GY_BASE+'img/andiswa-and-nonyaka.jpeg'}
+    {name:'John Doe 1',role:'Placeholding Manager',photo:GY_BASE+'img/Placeholder1.png'},
+    {name:'John Doe 2',role:'Placeholding Intern',photo:GY_BASE+'iimg/Placeholder1.png'},
+    {name:'John Doe 3',role:'Placeholding PR',photo:GY_BASE+'img/Placeholder1.png'}
   ],
   brands:[
     {name:'HP',logo:'https://cdn.simpleicons.org/hp'},
-    {name:'Dell',logo:'https://cdn.simpleicons.org/dell'},
-    {name:'Adobe',logo:'https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobe.svg'},
-    {name:'ESET',logo:'https://upload.wikimedia.org/wikipedia/commons/f/f0/ESET_logo.svg'},
-    {name:'Kaspersky',logo:'https://cdn.simpleicons.org/kaspersky'},
-    {name:'Microsoft',logo:'https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg'},
-    {name:'Lenovo',logo:'https://cdn.simpleicons.org/lenovo'},
-    {name:'Lego',logo:'https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/1280px-LEGO_logo.svg.png'},
-    {name:'Tiandy',logo:'https://www.tiandy.com/favicon.ico'},
-    {name:'Hikvision',logo:'https://upload.wikimedia.org/wikipedia/commons/a/ad/Hikvision_logo.svg'},
-    {name:'Dahua',logo:'https://upload.wikimedia.org/wikipedia/commons/f/f5/Dahua_Technology_logo.svg'},
-    {name:'Yealink',logo:'https://upload.wikimedia.org/wikipedia/commons/9/98/Yealink_logo.png'},
-    {name:'Fanvil',logo:'https://www.fanvil.com/template/en/images/logo.png'},
-    {name:'TP Link',logo:'https://cdn.simpleicons.org/tplink'},
-    {name:'Ubiquiti',logo:'https://cdn.simpleicons.org/ubiquiti'},
-    {name:'3CX',logo:'https://www.3cx.com/wp-content/uploads/2020/01/3CX_logo.jpg'},
-    {name:'Omni One',logo:'https://omnione.co.za/__l5e/assets-v1/05cbf3b3-3dbf-44ba-9daa-1046f7fb2f04/omnione-logo.png'},
-    {name:'Brother',logo:'https://upload.wikimedia.org/wikipedia/commons/8/87/Brother_logo.svg'}
+    {name:'Dell',logo:'https://cdn.simpleicons.org/dell'}
   ],
   quotes:[
     {t:'Reliable friendly service. You\'ve saved my computer a couple of times.',n:'Tanya Botha'},
